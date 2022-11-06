@@ -5,14 +5,7 @@
             <x-partials.sidenav />
 
             <div class="flex flex-col col-span-3 gap-y-4">
-                <x-thread />
-                <x-thread />
-                <x-thread />
-                <x-thread />
-                <x-thread />
-                <x-thread />
-                <x-thread />
-                <x-thread />
+                
             </div>
         </section>
     </main>

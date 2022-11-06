@@ -9,7 +9,7 @@
 
     <section class="mx-6">
         <div class="p-8">
-            <x-form action="#">
+            <x-form action="{{ route('admin.categories.store') }}">
                 <div class="space-y-8">
                     {{-- Name --}}
                     <div>
